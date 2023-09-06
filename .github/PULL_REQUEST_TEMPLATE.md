@@ -11,7 +11,6 @@
 <!--- Test coverage / Manual test -->
 
 - [ ] Tested in Dev.
-- [ ] Tested in Staging.
 - [ ] Unit tests
 - [ ] N/A
 
