@@ -2,20 +2,6 @@
 
 <!--- Why is this change required? What problem does it solve? -->
 
-## Related Issue
-
-<!--- JIRA ticket link  -->
-
-## How Has This Been Tested?
-
-<!--- Test coverage / Manual test -->
-
-- [ ] Tested in Dev.
-- [ ] Unit tests
-- [ ] N/A
-
-## Screenshots (if appropriate):
-
 ## Types of changes
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
@@ -23,6 +9,22 @@
 - [ ] Bug fix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
 - [ ] Breaking change (fix or feature that would cause existing functionality to change)
+- [ ] Other (Provide a brief description below)
+
+## Related Issue
+
+<!--- JIRA ticket link  -->
+
+[JIRA: XXXX](<JIRA-URL>)
+
+## How Has This Been Tested?
+
+<!--- Test coverage / Manual test -->
+
+- [ ] Unit tests
+- [ ] Other (Provide a brief description below)
+
+## Screenshots (if appropriate):
 
 ## Checklist:
 
