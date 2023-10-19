@@ -1,0 +1,10 @@
+ci/cd:
+  - .github/workflows/*
+
+infrastructure:
+  - terraform/**
+  - ./*tf
+
+documentation:
+  - README.md
+  - ./*.md

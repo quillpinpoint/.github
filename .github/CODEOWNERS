@@ -1,0 +1,26 @@
+# Owners of entire repo
+* @dnd-thomas-taege
+
+# Example of owners of .github subdirectory
+#/.github @TheOnion7 @albustax
+
+
+## You can view some examples for additional CODEOWNERS configurations below
+
+# You can also use email addresses if you prefer. They'll be
+# used to look up users just like we do for commit author
+# emails
+#*.go <docs@example.com>
+
+
+# In this example, @octocat owns any file in the `/apps`
+# directory in the root of your repository except for the `/apps/github`
+# subdirectory, as its owners are left empty
+#/apps/ @octocat
+#/apps/github
+
+
+# In this example, @octocat owns any file in a `/logs` directory such as
+# `/build/logs`, `/scripts/logs`, and `/deeply/nested/logs`. Any changes
+# in a `/logs` directory will require approval from @octocat
+#**/logs @octocat
