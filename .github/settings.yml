@@ -36,15 +36,18 @@ repository:
 
 # Labels: define labels for Issues and Pull Requests
 labels:
-  - name: "type: feature"
+  - name: "feature"
     color: "#F8B904"
     description: "implements a new feature"
-  - name: "type: fix"
+  - name: "fix"
     color: "#F97C14"
     description: "implements a bugfix"
-  - name: "type: chore"
+  - name: "chore"
     color: "#18A8F5"
     description: ""
+  - name: "size/Too Large"
+    color: "#C92F09"
+    description: "Pull Request changes too many lines of code"
   - name: "help wanted"
     color: "#008672"
     description: "Extra attention is needed"
