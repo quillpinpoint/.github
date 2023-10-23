@@ -1,0 +1,80 @@
+# These settings are synced to GitHub by https://probot.github.io/apps/settings/
+
+repository:
+  # See https://docs.github.com/en/rest/reference/repos#update-a-repository for all available settings.
+
+  # The name of the repository. Changing this will rename the repository
+  name: .github
+
+  # A short description of the repository that will show up on GitHub
+  description: GitHub Template repository. This repo contains items that are shared by all repositories in the dyedurham org.
+
+  # A URL with more information about the repository
+  homepage: https://github.com/dyedurham/.github
+
+  # A comma-separated list of topics to set on the repository
+  topics: template, gitops, actions, workflows
+
+  # Either `true` to make the repository private, or `false` to make it public.
+  private: true
+
+  # Either `true` to enable issues for this repository, `false` to disable them.
+  has_issues: false
+
+  # Either `true` to enable projects for this repository, or `false` to disable them.
+  # If projects are disabled for the organization, passing `true` will cause an API error.
+  has_projects: false
+
+  # Either `true` to enable the wiki for this repository, `false` to disable it.
+  has_wiki: false
+
+  # Either `true` to enable downloads for this repository, `false` to disable them.
+  has_downloads: false
+
+  # Updates the default branch for this repository.
+  default_branch: master
+
+# Labels: define labels for Issues and Pull Requests
+labels:
+  - name: "feature"
+    color: "#F8B904"
+    description: "implements a new feature"
+  - name: "fix"
+    color: "#F97C14"
+    description: "implements a bugfix"
+  - name: "chore"
+    color: "#18A8F5"
+    description: ""
+  - name: "size/Too Large"
+    color: "#C92F09"
+    description: "Pull Request changes too many lines of code"
+  - name: "help wanted"
+    color: "#008672"
+    description: "Extra attention is needed"
+  - name: "priority: critical"
+    color: "#b60205"
+    description: ""
+  - name: "priority: high"
+    color: "#d93f0b"
+    description: ""
+  - name: "priority: low"
+    color: "#0e8a16"
+    description: ""
+  - name: "priority: medium"
+    color: "#fbca04"
+    description: ""
+  - name: "status: can't reproduce"
+    color: "#fec1c1"
+    description: ""
+  - name: "status: confirmed"
+    color: "#215cea"
+    description: ""
+  - name: "status: duplicate"
+    color: "#cfd3d7"
+    description: "This issue or pull request already exists"
+  - name: "status: needs information"
+    color: "#fef2c0"
+    description: ""
+  - name: "status: wont do/fix"
+    color: "#eeeeee"
+    description: "This will not be worked on"

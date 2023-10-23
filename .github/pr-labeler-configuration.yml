@@ -1,0 +1,5 @@
+feature: ["feature/*", "feat/*"]
+fix: fix/*
+chore :hammer:: chore/*
+docs: ["docs/*", "doc/*"]
+ci: ci/*
