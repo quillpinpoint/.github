@@ -31,8 +31,8 @@
 
 <!--- Go over all the following points, and put an `x` in all the boxes that apply. -->
 
-- [ ] My change requires a change to the documentation.
-- [ ] I have updated the documentation accordingly.
-- [ ] I have added tests to cover my changes.
-- [ ] All new and existing tests passed.
-- [ ] No high or critical vulnerabilities detected.
+- [ ] My change requires a change to the documentation. ✍️
+- [ ] I have updated the documentation accordingly. 👍
+- [ ] I have added tests to cover my changes. 🛠️
+- [ ] All new and existing tests passed. 💯
+- [ ] No high or critical vulnerabilities detected. 🌈
