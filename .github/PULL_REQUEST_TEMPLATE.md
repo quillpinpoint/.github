@@ -2,7 +2,7 @@
 
 <!--- Why is this change required? What problem does it solve? -->
 
-## Types of changes 🟢 🔶 🟥
+## Types of changes 🚀
 
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
 
