@@ -32,7 +32,7 @@ repository:
   has_downloads: false
 
   # Updates the default branch for this repository.
-  default_branch: main
+  default_branch: master
 
 # Labels: define labels for Issues and Pull Requests
 labels:
