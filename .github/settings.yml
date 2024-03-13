@@ -16,7 +16,7 @@ repository:
   topics: template, gitops, actions, workflows
 
   # Either `true` to make the repository private, or `false` to make it public.
-  private: true
+  private: false
 
   # Either `true` to enable issues for this repository, `false` to disable them.
   has_issues: false
@@ -32,7 +32,7 @@ repository:
   has_downloads: false
 
   # Updates the default branch for this repository.
-  default_branch: master
+  default_branch: main
 
 # Labels: define labels for Issues and Pull Requests
 labels:
